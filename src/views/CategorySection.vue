@@ -4,7 +4,7 @@
             <div class="w-full flex flex-col items-center justify-center gap-y-5 text-center lg:w-10/12">
                 <h1 class="font-bold">Choose A Category</h1>
                 
-                <div class="home-demo">
+                <div class="home-demo hidden">
                     <h3>Carousel</h3>
                     
                     <div class="owl-carousel owl-theme">
